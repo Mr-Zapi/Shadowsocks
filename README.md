@@ -116,7 +116,7 @@ sudo ufw allow 8388
 ### Автоматическая установка
 
 ```bash
-wget https://raw.githubusercontent.com/Mr-Zapi/Shadowsocks/blob/main/second_server.sh
+wget [https://raw.githubusercontent.com/Mr-Zapi/Shadowsocks/blob/main/second_server.sh](https://raw.githubusercontent.com/Mr-Zapi/Shadowsocks/refs/heads/main/second_server.sh)
 chmod +x second_server.sh
 sudo bash second_server.sh
 ```
