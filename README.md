@@ -40,7 +40,7 @@
 Я подготовил bash-скрипт, который всё сделает автоматически. Подключитесь к вашему US серверу и выполните:
 
 ```bash
-wget https://raw.githubusercontent.com/Mr-Zapi/Shadowsocks/blob/main/main_server.sh
+wget [[](https://raw.githubusercontent.com/Mr-Zapi/Shadowsocks/refs/heads/main/main_server.sh)](https://raw.githubusercontent.com/Mr-Zapi/Shadowsocks/refs/heads/main/main_server.sh)
 chmod +x main_server.sh
 sudo bash main_server.sh
 ```
